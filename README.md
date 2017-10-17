@@ -1,2 +1,2 @@
 # ApplicationSupport
-Otors
+Capacitación
